@@ -14,3 +14,13 @@ In addition to supporting and executing any command located in the /bin/, /usr/b
 |```history```|Lists the last 15 commands entered by the user. Supports ```-p``` parameter that lists associated PID with command|
 |```!n```|Reruns the nth command stored in history|
 
+### Demo
+![Screen Shot 2023-05-18 at 1 06 13 PM](https://github.com/AMahouch/Mav-Shell/assets/97981126/9ddeaad9-d36c-45be-b1e7-98575dbdc59b)
+
+
+
+![Screen Shot 2023-05-18 at 1 08 56 PM](https://github.com/AMahouch/Mav-Shell/assets/97981126/45b4454f-c282-4acd-bd93-f02356eb05a9)
+
+
+### Run
+Ensure in parent directory. Build with ```make``` and run with ```./msh```.
