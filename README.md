@@ -11,5 +11,6 @@ In addition to supporting and executing any command located in the /bin/, /usr/b
 |Command|Description|
 |-------|-----------|
 |```cd <directory>```|Changes the current working directory to the specified directory|
-|```history```|Lists the last 15 commands entered by the user. Supports -p parameter that lists associated PID with command|
+|```history```|Lists the last 15 commands entered by the user. Supports ```-p``` parameter that lists associated PID with command|
 |```!n```|Reruns the nth command stored in history|
+
